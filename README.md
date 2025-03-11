@@ -1,5 +1,6 @@
 # Angular Intro
 
+Angular Tutorial online: https://angular.dev/tutorials/first-app
 ## Angular CLI (https://angular.dev/tools/cli/setup-local)
 ### Instaliavimas
 ```bash
